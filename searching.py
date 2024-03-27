@@ -20,7 +20,7 @@ queries = ['Fact Checking AND AI',
 
 
 
-
+# Running the search method - ti
 def run_search(queries):
     temp_data_storage = []
     for q in queries:
